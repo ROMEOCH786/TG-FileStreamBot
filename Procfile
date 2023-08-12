@@ -1,1 +1,1 @@
-worker: sudo docker compose up -d 
+worker: python3 -m WebStreamer
